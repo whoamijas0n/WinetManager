@@ -1,4 +1,4 @@
-# Wifi_connection_NetworkManager
+# WinetManager
 Script para establecer una conexion de red Wifi en sistemas GNU/Linux a traves de NetworkManager
 
 <p align="center">
