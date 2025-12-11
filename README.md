@@ -2,7 +2,7 @@
 Script para establecer una conexion de red Wifi en sistemas GNU/Linux a traves de NetworkManager
 
 <p align="center">
-  <img src="img/exa.png" alt="Imagen de el circuito" width="550">
+  <img src="img/exa.png" alt="Imagen de el circuito" width="850">
 </p>
 
 ## Requisitos
