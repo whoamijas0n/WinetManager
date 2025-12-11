@@ -1,5 +1,10 @@
 # Wifi_connection_NetworkManager
 Script para establecer una conexion de red Wifi en sistemas GNU/Linux a traves de NetworkManager
+
+<p align="center">
+  <img src="img/exa.png" alt="Imagen de el circuito" width="550">
+</p>
+
 ## Requisitos
 Tienes que tener instalado el paquete NetworkManager para utilizar este script.
 si no lo tienes instalado ejecuta los siguientes comandos segun la distribucion que utilices:
