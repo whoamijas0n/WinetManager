@@ -27,7 +27,7 @@ sudo systemctl enable --now NetworkManager
 ## Modo de uso
 en tu terminal de preferencia, ejecuta los siguientes comandos:
 ```bash
-git clone https://github.com/whoamijas0n/Wifi_connection_NetworkManager
+git clone https://github.com/whoamijas0n/WinetManager.git
 cd Wifi_connection_NetworkManager
 bash wifi_connect.sh
 ```
